@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "jamisonstumbaugh/happy-wheels-demo",
+    "description": "Happy wheels Framework.",
+    "keywords": ["framework", "happywheels"],
     "license": "MIT",
     "type": "project",
     "require": {
